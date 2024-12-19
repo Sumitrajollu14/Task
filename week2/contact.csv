@@ -1,0 +1,3 @@
+contact_id,contact_company_id,first_name,last_name,contact_email,contact_phone,contact_mailing_address,contact_mailing_city,contact_mailing_state,contact_mailing_zip,contact_mailing_country
+901234,1234,Sumitra,Jollu,sumitra.jollu@example.com,9876543210,123 Street,Hyderabad,Telangana,10001,US
+345678,5678,Accenture,Solutions,accenture.solutions@example.com,1234567890,456 Another St,London,England,20002,UK

@@ -1,0 +1,4 @@
+{
+    "company_code_picklist": ["ACN001", "CG002", "AB003"],
+    "company_region_code_picklist": ["UK-123", "US-456", "XY-789", "AB-001"]
+}
